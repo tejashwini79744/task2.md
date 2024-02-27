@@ -48,6 +48,7 @@
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
+![image](https://github.com/tejashwini79744/task2.md/assets/161418020/88306ff2-7a4f-49d7-94c2-b193c06aad9e)
 
 
 </details>
